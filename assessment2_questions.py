@@ -210,7 +210,7 @@ Sample Input:
 Sample Output: 
     [-1, 11] the numbers can be in any  order, it does not matter. 
 
-my_numbers = [3, 5, 9, 2, 11, 3, -9, 6]
+my_numbers = [3, 5, -4 ,8, 11, 1, -1, 6] 
 target_sum = 10
 final_numbers = []
 empty_return = []
