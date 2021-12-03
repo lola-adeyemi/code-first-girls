@@ -53,8 +53,6 @@ All | Navigation | -	Ability to navigate through pages
 Search Page | Analytics | -	Covid analytics
 Search Page | Mail to | -	Feature to mail search information
 
-![image](https://user-images.githubusercontent.com/61808090/144643679-6f751c34-2404-402a-acfc-b978f7f58c42.png)
-
 ##### 2.4. Provide a sample architecture diagram of your system
 
 ![image](https://user-images.githubusercontent.com/61808090/144643744-64f4e6e9-fcff-46b2-9715-3b12a94ddfa2.png)
