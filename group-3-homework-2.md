@@ -29,6 +29,30 @@ We are building a web application designed to help people understand and be comp
 Within the UK, the lack of standarisation around COVID-19 rules/requirements makes it challenging to know what compliance is required to attend major events/places. Each event or place tends to have different requirements and attendees can be affected and lost in the different requirements. Our MVP will initially focus on major music events. As music events are restarting from the initial pandemic postponement, we believe we are providing a first of a kind application within the UK. We will deem our application successful when we deliver an application which a user can interact with and receive COVID-19 information regarding an upcoming music event.
 
 Our application will provide users with a one-stop service for locating crucial COVID-19 rules/requirements for an upcoming major music event in London. Our application will provide COVID-19 information on rules, requirements, and key metrics for major events/places in the UK. We will initially start with providing information for music events within London, with a roadmap looking to deliver an application that provides information on major events/venues within London and eventually the UK. For our MVP, we are focusing on use cases 2 & 3 in the use cases table which corresponds to v1.2 on the roadmap, see below:
+
+	As a 	I want to	So that
+1	User (concert goer)	Visit the website and have the option of creating an account or continuing as a guest. (Ideally, I would want to be able create an account on the website by signing up via Facebook, Twitter or with my email).
+
+If I am continuing as a guest, then I would need to be asked some basic and relevant questions about who I am. (i.e. Age, exemptions)
+
+Side note: This could be done using a lightbox/ modal pop up which captures the details of users. 
+	Sign up option: I can create an account that stores my profile and stops me from having to fill in my details all over again before searching for information on a particular venue. If there is no information on the venue, then it will tell the user that we have no information on this at present and give the logged in user an option to leave some tips below if they have been to the venue. 
+
+If a user is not logged in, then it would prompt the user to create an account first.
+
+Continue as a guest option: So that I do not have to save my information to any database and hence I can search on behalf of others quickly.
+
+2	User (concert goer)	Search for a venue by name using the search bar, which filters through matching options as I search in a dropdown menu and mentions the location in brackets. (Example: O2 Arena (London, Greenwich))
+	This will allow me to search specifically for the venue that I’m looking for easily. 
+3	User (concert goer)	Find out latest news on the COVID cases in the area, restrictions, and requirements for a specific concert venue in London. 	I can assess the latest COVID risks posed in that area and find out what I need to do (I.e. lateral flow test) and by when to ensure a smooth entry to the venue. I may even decide that based on the information presented to me, I do not want to attend at all anymore.
+
+4	User (concert goer)	Have the option to create additional profiles for who I will be attending the concert with, with their age etc?
+	I can search on behalf of friends and family who have different circumstances to me and be given tailored information for each person attending the concert.
+
+![image](https://user-images.githubusercontent.com/61808090/144644452-7b1d19c7-8c75-4325-8327-19eaa56f7fe1.png)
+
+
+
 ![Screenshot 2021-12-03 at 17 12 58](https://user-images.githubusercontent.com/61808090/144644340-01d54f5d-bcac-4ee1-9e94-5a7c3fd42599.png)
 
 
