@@ -1,4 +1,4 @@
-HOMEWORK WEEK2
+# HOMEWORK WEEK 2
 
 This week’s homework will be purely Project based. You need to work as a group and the homework will be submitted by one of the members of your group. List the other members of your group in the
 document, so that your instructor can mark every student.
