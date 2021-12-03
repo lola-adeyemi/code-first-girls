@@ -1,4 +1,4 @@
-# HOMEWORK WEEK 2
+# HOMEWORK WEEK 2 
 
 
 ## Group 3:
