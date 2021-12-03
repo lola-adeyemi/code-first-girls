@@ -41,7 +41,7 @@ Number | As a... | I want to... | So that...
 
 Roadmap – Version 1.1
  
-![image](https://user-images.githubusercontent.com/61808090/144643653-b35300d9-c57b-4cbc-a06c-cc02a6621a5a.png)
+![roadmap](images/major places.png "Roadmap")
 
 
 ##### 2.3. What are key features of your system?
