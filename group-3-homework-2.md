@@ -32,8 +32,8 @@ Our application will provide users with a one-stop service for locating crucial 
 
 ![Screenshot 2021-12-03 at 17 15 01](https://user-images.githubusercontent.com/61808090/144644639-754be842-5ef7-446c-a76f-bc9e4a8c1710.png)
 
- | As a... | I want to... | So that...
------------- | ------------- | ------------ | -------------
+Number | As a... | I want to... | So that...
+-------| --------| ------------ | -------------
  1 | User (concert goer) | Visit the website and have the option of creating an account or continuing as a guest. (Ideally, I would want to be able create an account on the website by signing up via Facebook, Twitter or with my email).
 
 If I am continuing as a guest, then I would need to be asked some basic and relevant questions about who I am. (i.e. Age, exemptions)
