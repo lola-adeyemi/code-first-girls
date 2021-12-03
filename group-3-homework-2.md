@@ -1,10 +1,7 @@
 # HOMEWORK WEEK 2
 
-This week’s homework will be purely Project based. You need to work as a group and the homework will be submitted by one of the members of your group. List the other members of your group in the
-document, so that your instructor can mark every student.
 
-
-Group 3:
+## Group 3:
 
 - Alana Hall
 - Karishma Thaladi
@@ -13,18 +10,20 @@ Group 3:
 - Rabia Sohag
 - Renee-Louise Nzegbulem
 
-1. Your group needs to decide what kind of project you are going to work on and lock in your decision.
+## Submission
+
+#### 1. Your group needs to decide what kind of project you are going to work on and lock in your decision.
 
 Application
 
-2. You need to submit a free style paper that describes your project on a high level. Please cover the following questions:
+#### 2. You need to submit a free style paper that describes your project on a high level. Please cover the following questions:
 
-2.1 What are you building?
+##### 2.1 What are you building?
 
 We are building a web application designed to help people understand and be compliant with COVID-19 rules/requirements for key events/places in the UK. 
 
 
-2.2 What does it do or what kind of problem does it solve?
+##### 2.2 What does it do or what kind of problem does it solve?
 
 Within the UK, the lack of standarisation around COVID-19 rules/requirements makes it challenging to know what compliance is required to attend major events/places. Each event or place tends to have different requirements and attendees can be affected and lost in the different requirements. Our MVP will initially focus on major music events. As music events are restarting from the initial pandemic postponement, we believe we are providing a first of a kind application within the UK. We will deem our application successful when we deliver an application which a user can interact with and receive COVID-19 information regarding an upcoming music event.
 
@@ -33,22 +32,35 @@ Our application will provide users with a one-stop service for locating crucial 
 
 ![Screenshot 2021-12-03 at 17 15 01](https://user-images.githubusercontent.com/61808090/144644639-754be842-5ef7-446c-a76f-bc9e4a8c1710.png)
 
+ | As a... | I want to... | So that...
+------------ | ------------- | ------------ | -------------
+ 1 | User (concert goer) | Visit the website and have the option of creating an account or continuing as a guest. (Ideally, I would want to be able create an account on the website by signing up via Facebook, Twitter or with my email).
 
+If I am continuing as a guest, then I would need to be asked some basic and relevant questions about who I am. (i.e. Age, exemptions)
+
+Side note: This could be done using a lightbox/ modal pop up which captures the details of users.  | Sign up option: I can create an account that stores my profile and stops me from having to fill in my details all over again before searching for information on a particular venue. If there is no information on the venue, then it will tell the user that we have no information on this at present and give the logged in user an option to leave some tips below if they have been to the venue. 
+
+If a user is not logged in, then it would prompt the user to create an account first.
+
+Continue as a guest option: So that I do not have to save my information to any database and hence I can search on behalf of others quickly.
+ 2 | User (concert goer) | Search for a venue by name using the search bar, which filters through matching options as I search in a dropdown menu and mentions the location in brackets. (Example: O2 Arena (London, Greenwich)) | This will allow me to search specifically for the venue that I’m looking for easily. 
+ 3 | User (concert goer) | Find out latest news on the COVID cases in the area, restrictions, and requirements for a specific concert venue in London.  | I can assess the latest COVID risks posed in that area and find out what I need to do (I.e., lateral flow test) and by when to ensure a smooth entry to the venue. I may even decide that based on the information presented to me, I do not want to attend at all anymore.
+ 4 | User (concert goer) | Have the option to create additional profiles for who I will be attending the concert with, with their age etc? | I can search on behalf of friends and family who have different circumstances to me and be given tailored information for each person attending the concert.
 
 Roadmap – Version 1.1
  
 ![image](https://user-images.githubusercontent.com/61808090/144643653-b35300d9-c57b-4cbc-a06c-cc02a6621a5a.png)
 
 
-2.3. What are key features of your system?
+##### 2.3. What are key features of your system?
 
 ![image](https://user-images.githubusercontent.com/61808090/144643679-6f751c34-2404-402a-acfc-b978f7f58c42.png)
 
-2.4. Provide a sample architecture diagram of your system
+##### 2.4. Provide a sample architecture diagram of your system
 
 ![image](https://user-images.githubusercontent.com/61808090/144643744-64f4e6e9-fcff-46b2-9715-3b12a94ddfa2.png)
 
-2.5	Describe the team approach to the project work: how are you planning to distribute the workload, how are you managing your code, how are you planning to test your system.
+##### 2.5	Describe the team approach to the project work: how are you planning to distribute the workload, how are you managing your code, how are you planning to test your system.
 
 
 The team approach for this project is the agile software development methodology. Agile will help us deliver the software that focuses on incremental development, prioritising testing and user feedback in order to adjust the software to meets users’ need. The way that we have planned to distribute the workload is by using the Scrum model. 
