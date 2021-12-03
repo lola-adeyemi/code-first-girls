@@ -52,6 +52,9 @@ Continue as a guest option: So that I do not have to save my information to any 
 ![image](https://user-images.githubusercontent.com/61808090/144644452-7b1d19c7-8c75-4325-8327-19eaa56f7fe1.png)
 
 
+![Screenshot 2021-12-03 at 17 15 01](https://user-images.githubusercontent.com/61808090/144644639-754be842-5ef7-446c-a76f-bc9e4a8c1710.png)
+
+
 
 ![Screenshot 2021-12-03 at 17 12 58](https://user-images.githubusercontent.com/61808090/144644340-01d54f5d-bcac-4ee1-9e94-5a7c3fd42599.png)
 
