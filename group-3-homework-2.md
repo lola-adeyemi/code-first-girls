@@ -35,13 +35,9 @@ Our application will provide users with a one-stop service for locating crucial 
 Number | As a... | I want to... | So that...
 -------| --------| ------------ | -------------
  1 | User (concert goer) | Visit the website and have the option of creating an account or continuing as a guest. (Ideally, I would want to be able create an account on the website by signing up via Facebook, Twitter or with my email).
-
 If I am continuing as a guest, then I would need to be asked some basic and relevant questions about who I am. (i.e. Age, exemptions)
-
 Side note: This could be done using a lightbox/ modal pop up which captures the details of users.  | Sign up option: I can create an account that stores my profile and stops me from having to fill in my details all over again before searching for information on a particular venue. If there is no information on the venue, then it will tell the user that we have no information on this at present and give the logged in user an option to leave some tips below if they have been to the venue. 
-
 If a user is not logged in, then it would prompt the user to create an account first.
-
 Continue as a guest option: So that I do not have to save my information to any database and hence I can search on behalf of others quickly.
  2 | User (concert goer) | Search for a venue by name using the search bar, which filters through matching options as I search in a dropdown menu and mentions the location in brackets. (Example: O2 Arena (London, Greenwich)) | This will allow me to search specifically for the venue that I’m looking for easily. 
  3 | User (concert goer) | Find out latest news on the COVID cases in the area, restrictions, and requirements for a specific concert venue in London.  | I can assess the latest COVID risks posed in that area and find out what I need to do (I.e., lateral flow test) and by when to ensure a smooth entry to the venue. I may even decide that based on the information presented to me, I do not want to attend at all anymore.
