@@ -41,7 +41,7 @@ Number | As a... | I want to... | So that...
 
 Roadmap – Version 1.1
  
-![image](images/softwarea.jpg)
+![roadmap](images/roadmap.png "Road Map")
 
 
 ##### 2.3. What are key features of your system?
@@ -55,7 +55,7 @@ Search Page | Mail to | -	Feature to mail search information
 
 ##### 2.4. Provide a sample architecture diagram of your system
 
-![image](https://user-images.githubusercontent.com/61808090/144643744-64f4e6e9-fcff-46b2-9715-3b12a94ddfa2.png)
+![architecture](images/softwarea.jpg "Architecture diagram")
 
 ##### 2.5	Describe the team approach to the project work: how are you planning to distribute the workload, how are you managing your code, how are you planning to test your system.
 
