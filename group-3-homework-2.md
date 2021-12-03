@@ -49,23 +49,41 @@ Roadmap – Version 1.1
 ![image](https://user-images.githubusercontent.com/61808090/144643744-64f4e6e9-fcff-46b2-9715-3b12a94ddfa2.png)
 
 2.5	Describe the team approach to the project work: how are you planning to distribute the workload, how are you managing your code, how are you planning to test your system.
+
+
 The team approach for this project is the agile software development methodology. Agile will help us deliver the software that focuses on incremental development, prioritising testing and user feedback in order to adjust the software to meets users’ need. The way that we have planned to distribute the workload is by using the Scrum model. 
+
+
 In this model, we have assigned a scrum master who leads the work and a product owner who is responsible for managing the Product Backlog. Everyone on the project team is also part of the development team who delivers releasable increment of products at the end of each sprint. We are all equally responsible for the quality and success of the project. 
+
+
 The project team brainstormed a list of key requirements for the software which were broken down into smaller and more precise items. These items are stored in the product backlog items and details such as description and order are also added.
+
+
 At the beginning of each sprint, we conduct a sprint planning meeting where we outline the work to be performed for the sprint. The team selects tasks for the sprint, then finds out what each item means and who owns it. In this meeting, the following questions are answered:
 1.	What are we going to work on?
 2.	How are we going to do it?
+
+
 Daily scrum meetings are also required every day once a sprint begins for fifteen minutes to check the progress toward the sprint goal and make adjustments if necessary. Currently, we are not conducting daily scrum meetings due to it being a part time project. However, once the project goes full time then we will include daily scrum in the schedule and each developer will answer the following three questions during the meetings:
 1.	What did you do yesterday?
 2.	What will you do today?
 3.	Is anything blocking your progress?
+
+
 Developers work through the sprint tasks with estimated deadlines for each sprint. Once a sprint is complete, developers conduct a sprint review meeting to get feedback to ensure that the piece of software or product has met the key requirements and the revision of the product backlog can take place based on the feedbacks.
+
+
 Our project team ends each week with a sprint retrospective meeting. This allows us to plan ways to increase quality and effectiveness. We reflect on our previous sprint by discussing the following points:
 1.	What went well during the sprint
 2.	What problems were encountered
 3.	How those problems were solved or unsolved
+
+
 The ways that we have planned to manage our code are through pair programming and code reviews. Pair programming is where two developers pair up to work on programming tasks. Both developers communicate effectively to share knowledge and produce better solutions because two heads are better than one.
 We will also use code reviews, where a developer takes a look at another developer’s code to find faults or improvement in it. This will help us ensure that our code is bug free and of a very high quality standard.
+
+
 We are planning to test the system by using unit testing and end to end testing. Unit testing is a software testing model that tests individual components of the software to validate each component of the software performs as designed. End to end testing will also be uses to test all actions that a real user might perform on the system. This will ensure that the system behave as expected.
 
 
