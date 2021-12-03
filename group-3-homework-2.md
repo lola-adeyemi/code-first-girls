@@ -46,6 +46,13 @@ Roadmap – Version 1.1
 
 ##### 2.3. What are key features of your system?
 
+View| Feature| Description 
+----| -------| ----------- 
+All | Accessible | -	Easy to view buttons -	Keyboard only navigation -	Colour blind friendly colours
+All | Navigation | -	Ability to navigate through pages
+Search Page | Analytics | -	Covid analytics
+Search Page | Mail to | -	Feature to mail search information
+
 ![image](https://user-images.githubusercontent.com/61808090/144643679-6f751c34-2404-402a-acfc-b978f7f58c42.png)
 
 ##### 2.4. Provide a sample architecture diagram of your system
