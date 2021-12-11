@@ -25,7 +25,7 @@ Procedural Programming can be defined as structured programming. Programming pro
 
 The key differences are summarised below:
 
-![table](images/picture2software.png)
+![table](images/Screenshot 2021-12-11 at 20.53.52.png)
 
 2.	What's polymorphism in OOP?
 
@@ -41,8 +41,10 @@ class DerivedClass(BaseClass):
   Body of derived class
 
 4.	If you had to make a program that could vote for the top three funniest people in the office, how would you do that? How would you make it possible to vote on those people?
-1.	I would create a function that generated a random 4-digit number code against all the names in the office
-2.	Each person in the office will then receive their 4-digit code 
+
+
+6.	I would create a function that generated a random 4-digit number code against all the names in the office
+7.	Each person in the office will then receive their 4-digit code 
 b.	I would create a database for the voting application. Within this database their will be a minimum of three tables: 1. Table with a list of all names in the office for voting 2. Table with a list of all names for creating a vote 3.
 c.	I would create a simple webframe which will ask the user to select their name from the table number 2
 d.	The user will then be given three opportunities to vote for the funniest people in the office
@@ -51,9 +53,12 @@ f.	Once submitted it will remove the name from the options in table number 2 (so
 g.	Depending on the office size the database will be updated in batch processing
 h.	Once all votes have been submitted/time has lapsed an algorithm will sort the names and vote counts in order using
 i.	The names with the highest three counts will then be deemed the funniest people 
+
+
 5.	What's the software development cycle?
 The software development cycle is the application of standard practices to build software applications. In this cycle, it simply outlines each task required to put together a software application. The software development cycle consists of 6 stages:
 
+![table](images/Picture2software.png)
  
 1.	Requirement analysis – understand what the current problems are and getting input from people such as customers  on the requirements.
 2.	Planning – this is learning the resources that are required, understanding the costs and the risks involved. It also looks at removing risks
@@ -70,19 +75,16 @@ Waterfall is the traditional method of project management.  It is described as a
 The Agile method is a newer approach to project management. It is described as a continuous iteration  In software development, the development is defined in small increments and the management of the project has a greater focus on flexibility, collaboration and people processes.
 A key summary of differences can be found in the table below:
 
+![table](images/Screenshot 2021-12-11 at 20.54.50.png)
 
-	Agile	Waterfall
-Approach	Incremental	Sequential
-Project division	Project is separated into phases	Project is separated into sprints
-Flexibility	Requirements/scope can change at any time	Scope changed is not changed was the project starts, the whole project will close if the scope changes
-Testing	Testing happens concurrently	Test occurs at the end of a phase
-Project Management	Team can operate without a project manager	Project manager is essential to the project operation
-Focus	Focus is on the final product and customer satisifaction	Focus on successful project delivery
+
 
 7.	What is a reduced function used for?
 Reduce is a in-built function that replicates a mathematical technique called  reduction. The reduction method means rewriting of an expression/fraction/radical into a simpler form. In python, the reduce function is used to return a single value. The function can accepts three parameters i.e. function, sequence and initial value. The reduce function then calls the function within the parameter and then the first two items from the sequence and a result is returned. The function is then called again using the result from first reduction and the next value in the sequence. The process keeps until all values in the sequence have been reduced to a singular value. If the initial parameter is used, the process starts from the initial value in the sequence.
 
 The reduce function is explained further using the diagram and steps below:
+
+![table](images/Picture4.png)
  
 Steps corresponding to diagram:
 1.	In Python 3 the reduce function was moved to functool module. In Python 2, import is not needed as it’s an built-in function. In step one the function is imported
@@ -90,10 +92,13 @@ Steps corresponding to diagram:
 3.	The reduce function is called. The function calls the “do_addition” function and goes through the sequence of numbers given
 4.	The “do_addition” function returns the calculation to the reduce function which keeps going through the sequence until one value remains
 5.	The answer is printed as a single value of 20
+
+
+
 8.	How does merge sort work
 Merge sort is a sorting algorithm. It divides the input array and then sorts. It starts by finding the middle of the array and it then divides the array elements into 2 halves (step 1). It will keep dividing into two halves till the array size becomes a singular (one) element (step 2). Following this, one element arrays are then combined into two-element arrays, and they are sorted in the process (step 3). The arrays will keep merging and sorting until the initial array is sorted (step 4). The following example diagram corresponds to the previously written steps:
  
-
+![table](images/Picture5.png)
 
 
 Advantage of merge sort
@@ -103,6 +108,8 @@ Advantage of merge sort
 Disadvantage of merge sort
 •	It will sort an array even if the array is sorted
 •	It requires additional memory for the temporary divided arrays that is formed, although this is an additional memory space of 0(n)
+
+
 
 9.	Generators - Generator functions allow you to declare a function that behaves like an iterator, i.e. it can be used in a for loop. What is the use case?
 
@@ -122,15 +129,16 @@ def all_even():
 A decorator can be any callable python object and it can modify either a function or a class. With regards to functions, a decorator is a function that takes another function as its argument and returns yet a modified version of it. Decorators allow for the extension of an existing function without any modification to the original source code. As decorators are used for design pattern they can be implemented badly or well, the following shows examples of these implementations.
 Bad decorators:
 Poor naming -
-
+![table](images/Picture7.png)
 
 
 Space between decorator and function
 
- 
+ ![table](images/Picture8.png)
 Multiple decorators on one line
- 
+ ![table](images/Picture9.png)
 
 A good decorator will be properly referenced, just above the function it is calling, one per line and calls a proper function and not a class. The following is an example of a good decorator:
  
+ ![table](images/Picture10.png)
 ![image](https://user-images.githubusercontent.com/61808090/145691249-8ec27a45-180f-4c10-a5d2-5b07f98b7af2.png)
