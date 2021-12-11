@@ -25,7 +25,8 @@ Procedural Programming can be defined as structured programming. Programming pro
 
 The key differences are summarised below:
 
-![table](images/Screenshot 2021-12-11 at 20.53.52.png)
+![table](images/Screenshot%202021-12-11%20at%2020.53.52.png![image](https://user-images.githubusercontent.com/61808090/145691571-7a6927dc-ac3c-4c31-8ecf-4cae09c2edf6.png)
+)
 images/Screenshot 2021-12-11 at 20.53.52.png
 
 2.	What's polymorphism in OOP?
