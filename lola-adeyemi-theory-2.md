@@ -25,8 +25,7 @@ Procedural Programming can be defined as structured programming. Programming pro
 
 The key differences are summarised below:
 
-![table](images/Screenshot%202021-12-11%20at%2020.53.52.png![image](https://user-images.githubusercontent.com/61808090/145691571-7a6927dc-ac3c-4c31-8ecf-4cae09c2edf6.png)
-)
+![table](images/table1.png)
 images/Screenshot 2021-12-11 at 20.53.52.png
 
 2.	What's polymorphism in OOP?
@@ -77,7 +76,7 @@ Waterfall is the traditional method of project management.  It is described as a
 The Agile method is a newer approach to project management. It is described as a continuous iteration  In software development, the development is defined in small increments and the management of the project has a greater focus on flexibility, collaboration and people processes.
 A key summary of differences can be found in the table below:
 
-![table](images/Screenshot 2021-12-11 at 20.54.50.png)
+![table](images/table2.png)
 
 
 
